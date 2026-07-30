@@ -1,6 +1,6 @@
 ---
 app: "Judeus de Coimbra App IOS"          # Entre as aspas escreve o nome da app
-date: "30/07/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
+date: "16/07/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://apps.apple.com/pt/app/museu-judeus-de-coimbra/id1611578096"   # Entre as aspas escreve o endereço da app na loja
 a11y_statement: "https://www.cm-coimbra.pt/wp-content/uploads/2026/05/accessibility-statement_Judeus_de_Coimbra_iOS.html" # Entre as aspas escreve o URL da Declaração de Acessibilidade da App. A declaração da App está num URL público
 owner: "CM de Coimbra"         # Entre as aspas escrever o nome do owner da app
