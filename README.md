@@ -2,8 +2,9 @@
 app: "Judeus de Coimbra App IOS"          # Entre as aspas escreve o nome da app
 date: "16/07/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://apps.apple.com/pt/app/museu-judeus-de-coimbra/id1611578096"   # Entre as aspas escreve o endereço da app na loja
-a11y_statement: "https://www.cm-coimbra.pt/wp-content/uploads/2026/05/accessibility-statement_Judeus_de_Coimbra_iOS.html" # Entre as aspas escreve o URL da Declaração de Acessibilidade da App. A declaração da App está num URL público
-owner: "CM de Coimbra"         # Entre as aspas escrever o nome do owner da app
+a11y_statement: "https://www.cm-coimbra.pt/areas/transparencia/acessibilidade-da-app/acessibilidade-da-app-ios" # Entre as aspas escreve o URL da Declaração de Acessibilidade da App. A declaração da App está num URL público
+a11y_statement_date: "28/08/2026"  # Entre as aspas escreve a data da Declaração de Acessibilidade
+owner: "Município de Coimbra"         # Entre as aspas escrever o nome do owner da app
 seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 validity: "28/08/2026 a 28/08/2027" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
 status: "Concluído" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
